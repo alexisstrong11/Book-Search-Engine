@@ -13,7 +13,7 @@ A book search application that allows users to organize, manage and discover new
 
 
 ## **Installation**
-Users must clone the repository, https://github.com/alexisstrong11/Book-Search-Engine and run the command "npm i" to install all dependencies. Then run "npm start" to start the server and go to http://localhost:3000 to begin using the book-search engine. 
+Users must clone the repository, https://github.com/alexisstrong11/Book-Search-Engine and run the command "npm i" to install all dependencies. Then run "npm start" to start the server and go to http://localhost:3001 to begin using the book-search engine. 
 
 - - - -
 ## **Usage**
